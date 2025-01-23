@@ -1,0 +1,12 @@
+Body{
+    text-align: center;
+    background-color: green;
+    color: white;
+}
+.container {
+    background: rgba(0, 0, 0, 0.771);
+    padding: 80px;
+    box-shadow: 0 5px 10px rgba(154,160,185,.05), 0 15px 40px rgba(166,173,201,.2);
+    border-radius: 20px;
+    width: 3000px;
+}
